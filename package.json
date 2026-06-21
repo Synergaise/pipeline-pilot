@@ -1,0 +1,10 @@
+{
+  "name": "pipeline-pilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synergaise gated client-build pipeline sandbox",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node -e \"process.exit(0)\""
+  }
+}
